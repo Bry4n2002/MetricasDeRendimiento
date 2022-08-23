@@ -1,0 +1,3 @@
+/home/bryan/TrabajoEigen/Debug/CMakeFiles/TrabajoEigen.dir
+/home/bryan/TrabajoEigen/Debug/CMakeFiles/edit_cache.dir
+/home/bryan/TrabajoEigen/Debug/CMakeFiles/rebuild_cache.dir
