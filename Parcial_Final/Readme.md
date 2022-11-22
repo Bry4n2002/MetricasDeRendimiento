@@ -54,11 +54,8 @@ En este caso se extrajo el dataset framingham el cual esta publicado en Kaggle.
 
 
 
-## Versionado 1.0📌
-https://github.com/Bry4n2002/MetricasDeRendimiento/tree/main/Parcial_Final
 
 
 ## Autores ✒️
-Bryan Hernandez
-*   
+* Bryan Hernandez
 
