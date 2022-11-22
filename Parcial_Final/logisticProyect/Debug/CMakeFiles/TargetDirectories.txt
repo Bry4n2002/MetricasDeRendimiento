@@ -1,0 +1,3 @@
+/home/bryan/Documentos/metricas/ProyectosQt/logisticProyect/Debug/CMakeFiles/logisticProyect.dir
+/home/bryan/Documentos/metricas/ProyectosQt/logisticProyect/Debug/CMakeFiles/edit_cache.dir
+/home/bryan/Documentos/metricas/ProyectosQt/logisticProyect/Debug/CMakeFiles/rebuild_cache.dir
